@@ -1,0 +1,8 @@
+C:\Users\ParamJoshi\Desktop\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\HelloWorldConsoleApp1.exe.config
+C:\Users\ParamJoshi\Desktop\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\HelloWorldConsoleApp1.exe
+C:\Users\ParamJoshi\Desktop\HelloWorldConsoleApp1\HelloWorldConsoleApp1\bin\Debug\HelloWorldConsoleApp1.pdb
+C:\Users\ParamJoshi\Desktop\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\HelloWorldConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ParamJoshi\Desktop\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\HelloWorldConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ParamJoshi\Desktop\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\HelloWorldConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ParamJoshi\Desktop\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\HelloWorldConsoleApp1.exe
+C:\Users\ParamJoshi\Desktop\HelloWorldConsoleApp1\HelloWorldConsoleApp1\obj\Debug\HelloWorldConsoleApp1.pdb
